@@ -14,7 +14,7 @@ cask "sidebar" do
   app "Sidebar.app"
 
   zap trash: [
-    "~/Library/Application Support/Sidebar",
-    "~/Library/Preferences/net.sidebarapp.Sidebar.plist",
+    "~/Library/Application Support/at.sidebar.Sidebar",
+    "~/Library/Preferences/at.sidebar.Sidebar.plist",
   ]
 end
