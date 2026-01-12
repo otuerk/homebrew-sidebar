@@ -1,6 +1,6 @@
 cask "sidebar" do
-  version "0.0.0"
-  sha256 "no_check"
+  version "1.9.4"
+  sha256 "52638e295c3b405879940869f41e8cae345b95a641bb2125fbd5347a3f2eeaa1"
 
   url "https://download.sidebarapp.net/Sidebar.dmg"
   name "Sidebar"
