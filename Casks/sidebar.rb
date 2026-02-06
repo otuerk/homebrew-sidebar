@@ -1,8 +1,8 @@
 cask "sidebar" do
-  version "1.9.6"
-  sha256 "0c6a6e847977d2b8ee497eecbd459f58684909992696b634488659b87b62e21c"
+  version "1.9.7"
+  sha256 "1c1e41d452fd6af68538533e5d462d916057c9dc0493ab4886d29257c5fd6f2b"
 
-  url "https://download.sidebarapp.net/Sidebar%201.9.6.dmg"
+  url "https://download.sidebarapp.net/Sidebar%201.9.7.dmg"
   name "Sidebar"
   desc "Sidebar - The most customizable Dock replacement for macOS"
   homepage "https://sidebarapp.net/"
